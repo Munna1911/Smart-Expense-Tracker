@@ -23,7 +23,7 @@ A clean and interactive **Expense Tracker** built with **HTML, CSS & JavaScript*
 
 ## 🚀 Live Demo
 
-👉 **[View Live Demo](YOUR-GITHUB-PAGES-LINK)**
+👉  https://munna1911.github.io/Smart-Expense-Tracker/
 
 ## 🎯 What I Practiced
 
